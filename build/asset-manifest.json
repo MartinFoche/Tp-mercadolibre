@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4d04dc1.chunk.css",
+    "main.js": "/static/js/main.4ba1ebae.chunk.js",
+    "main.js.map": "/static/js/main.4ba1ebae.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.20acd595.js",
+    "runtime-main.js.map": "/static/js/runtime-main.20acd595.js.map",
+    "static/js/2.bec0239c.chunk.js": "/static/js/2.bec0239c.chunk.js",
+    "static/js/2.bec0239c.chunk.js.map": "/static/js/2.bec0239c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e4d04dc1.chunk.css.map": "/static/css/main.e4d04dc1.chunk.css.map",
+    "static/js/2.bec0239c.chunk.js.LICENSE.txt": "/static/js/2.bec0239c.chunk.js.LICENSE.txt",
+    "static/media/MercadoLibre.a9ecf4b8.png": "/static/media/MercadoLibre.a9ecf4b8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20acd595.js",
+    "static/js/2.bec0239c.chunk.js",
+    "static/css/main.e4d04dc1.chunk.css",
+    "static/js/main.4ba1ebae.chunk.js"
+  ]
+}
