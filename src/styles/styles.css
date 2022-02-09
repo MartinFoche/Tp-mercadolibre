@@ -1,0 +1,60 @@
+
+body {
+ background-color: rgb(224, 224, 224);
+ image-rendering: crisp-edges;
+}
+
+.sin-padding {
+    padding: 0px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.link-text {
+    text-decoration: none;
+    color: black;
+}
+
+.link-text:hover{
+    color:black
+}
+
+.img-detail {
+    max-width: 600px;
+    min-width: 400px;
+    min-height: 400px;
+    max-height: 600px;
+}
+
+.img-card {
+    max-width: 300px;
+    min-width: 200px; 
+    min-height: 200px;
+    max-height: 300px;
+}
+
+.card-detail {
+    max-width: 100vw;
+    min-height: 100%;
+}
+
+.card-product {
+    max-width: 100vw;
+}
+
+.container-home {
+    background-color: blue;
+    min-height: 93.8vh;
+    background-image: url(https://i1.wp.com/herramientasgratis.com/wp-content/uploads/2020/01/29-291287_yellow-4k-ultra-hd-wallpaper-fondo-amarillo-hd-scaled.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+.title-logo {
+    color: rgb(3, 3, 126);
+    font-size: 100px;
+    
+}
